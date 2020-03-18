@@ -1,2 +1,2 @@
-# SeatReservation
-A simple seat reservation app built with JavaScript
+# Breakout Game
+A simple breakout game built with JavaScript
